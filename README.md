@@ -68,26 +68,28 @@ The interface displays scores and game progress in a clear, intuitive manner.
 
 ### Images from Prolog Program
 
-
+#### First roll showing who goes first
 ![Main Menu](images/Picture1.png)
 
-
+#### Showing Computer going for Five Straight and filling the appropriate category and human’s turn after computer’s.
 ![Main Menu](images/Picture2.png)
 
-#### Computer assisting human to pursue keep dice values and pursue a category
+#### Manual entry of the dice and showing potential categories based on the dice combination. Also displays the option for human to ask for help.
 ![Main Menu](images/Picture3.png)
 
-#### Computer making decision to keep dice values when high scoring category is available
+#### When user says yes, computer provides help and asks if the user wants to stand or not.
 ![Main Menu](images/Picture4.png)
 
-#### Computer standing on a category, filling the scorecard, then asking if user wants to save game.
+#### Loading a saved game. The player with less scores goes first. 
 ![Main Menu](images/Picture5.png)
 
-#### Winner of the tournament being announced
+#### Human fills the scorecard and program asks to save the game.
 ![Main Menu](images/Picture6.png)
 
-#### Loading the saved game
+#### Manually input the dice values for computer, computer filling category, displaying scorecard, and asking to save the game or not.
 ![Main Menu](images/Picture7.png)
+
+#### When all the categories are filled, the tournament ends displaying who won the game
 ![Main Menu](images/Picture8.png)
 
 
