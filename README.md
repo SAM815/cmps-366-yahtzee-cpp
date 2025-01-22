@@ -68,10 +68,10 @@ The interface displays scores and game progress in a clear, intuitive manner.
 
 ### Images from Prolog Program
 
-#### Rolling to see who goes first
+
 ![Main Menu](images/Picture1.png)
 
-#### Computer assisting human to select a high point earning category
+
 ![Main Menu](images/Picture2.png)
 
 #### Computer assisting human to pursue keep dice values and pursue a category
@@ -88,3 +88,6 @@ The interface displays scores and game progress in a clear, intuitive manner.
 
 #### Loading the saved game
 ![Main Menu](images/Picture7.png)
+![Main Menu](images/Picture8.png)
+
+
